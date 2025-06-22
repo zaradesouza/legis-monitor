@@ -87,12 +87,12 @@ temas_ong ───────┤
 
 ### Visuais principais
 
-1. **Cartão “Proposições Monitoradas”** – número total após filtragem.  
-2. **Gráfico de colunas** – distribuição por **tema** (ex.: Saúde da Mulher, Violência Doméstica).  
-3. **Gráfico de barras** – **Tipo de Proposição** (PL, PEC, RQS, etc.).  
-4. **Gráfico de gênero** – proporção de autores(as) **feminino / masculino / outro**.  
-5. **Gráfico de barras** – **Partidos** dos(as) autores(as) das proposições.  
-6. **Botão “Banco de Proposições”** – leva à tabela detalhada com link direto para cada proosição analisada.
+1. **Cartão “Proposições Monitoradas”** – Número total de proposições monitoradas após filtragem.  
+2. **Gráfico de colunas – Quantidade de Proposições por Temas**: Distribuição das proposições por temas (ex.: Saúde da Mulher, Violência Doméstica, etc.).  
+3. **Gráfico de barras – Tipo de Proposições**: Distribuição das proposições por Tipo (ex.: PL, PEC, RQS, etc.).  
+4. **Gráfico de rosca - Gênero dos(as) Autores(as)** –  Distribuição das proposições por Gênero dos(as) autores(as) (ex.: Feminino, Masculino, Outro).  
+5. **Gráfico de barras – Partidos dos(as) Autores(as)** - Distribuição das proposições por Partido dos(as) autores(as) (ex.: PL, PSD, PT, MDB, etc.).
+6. **Botão “Banco de Proposições”** – leva à tabela detalhada com link direto para cada proposição analisada.
 
 ---
 
