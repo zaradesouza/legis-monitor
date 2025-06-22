@@ -1,7 +1,7 @@
 # Monitoramento do Legislativo (Câmara + Senado)  
 Projeto voluntário para a **[ONG Elas no Poder](https://elasnopoder.org/)**
 
-Monitora, em tempo (quase) real, a tramitação de proposições na Câmara dos Deputados e no Senado Federal, consolida os dados em uma planilha do Google Sheets.
+Monitora, em tempo (quase) real, a tramitação de proposições na Câmara dos Deputados e no Senado Federal, consolida os dados em uma Planilha Google (Google Sheets).
 
 Esse projeto automatiza a coleta de proposições, classifica por tema, atualiza planilhas no Google Sheets, abastece um Dashboard em Power BI e dispara um boletim semanal por e-mail.
 
