@@ -122,7 +122,7 @@ Depois de publicar, abra o editor Apps Script → Triggers → crie os gatilhos 
 
 ## Contato
 
-Tem dúvidas, achou um bug ou gostaria de sugerir melhorias? 
+Tem dúvidas ou gostaria de sugerir melhorias? 
 Me manda um e-mail: [**zara@estudante.ufscar.br**](mailto:zara@estudante.ufscar.br)
 
 
