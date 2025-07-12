@@ -1,7 +1,5 @@
 /****************************************************************
  *  COLETA DIÁRIA − SENADO FEDERAL (últimos 2 dias)
- *  Não sobrescreve linhas existentes
- *  Agora com log na aba “log_senado”
  ****************************************************************/
 function coletaProposicoesSenado() {
   const ss   = SpreadsheetApp.getActiveSpreadsheet();
